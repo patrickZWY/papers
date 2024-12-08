@@ -1,6 +1,6 @@
-# Economic History Papers
+# Economics Papers
 
-## Paper List
+## Paper List (Economic History & Economics)
 
 1. **Title**: Two Views of the British Industrial Revolution
    **Author(s)**: Peter Temin  
@@ -45,6 +45,15 @@
 10. **Title**: Why the industrial revolution was British: commerce, induced invention, and the scientific revolution1
    **Author(s)**: R. C. ALLEN
    **Publication Year**: 2011
+
+11. **Title**: The Economic Organisation of a P.O.W. Camp
+   **Author(s)**: R. A. Radford
+   **Publication Year**: 1945
+
+
+12. **Title**: “The Island Of Stone Money”
+   **Author(s)**: Milton Friedman
+   **Publication Year**: 1991
 
 
 
